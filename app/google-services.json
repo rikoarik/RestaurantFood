@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "503625536751",
+    "firebase_url": "https://fooddata-a02a4-default-rtdb.firebaseio.com",
+    "project_id": "fooddata-a02a4",
+    "storage_bucket": "fooddata-a02a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503625536751:android:bca0e97b10977f6cceb71a",
+        "android_client_info": {
+          "package_name": "com.project.foodorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503625536751-4jl8c5ncii1jpu2g04u2l7b5o1q7a9vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGni_IDyRGlSky90RvOAr1E7BqBvt63U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503625536751-4jl8c5ncii1jpu2g04u2l7b5o1q7a9vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503625536751:android:896bb7b316d61162ceb71a",
+        "android_client_info": {
+          "package_name": "com.project.toko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503625536751-o7lgidjqjdqomdivrhlqdn825th1dc99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.toko",
+            "certificate_hash": "89cb430d3e83f88d02c6b1e94c5a929b50135a64"
+          }
+        },
+        {
+          "client_id": "503625536751-4jl8c5ncii1jpu2g04u2l7b5o1q7a9vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGni_IDyRGlSky90RvOAr1E7BqBvt63U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503625536751-4jl8c5ncii1jpu2g04u2l7b5o1q7a9vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503625536751:android:d3ed4a4923c43072ceb71a",
+        "android_client_info": {
+          "package_name": "com.project.tokomakanan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503625536751-4jl8c5ncii1jpu2g04u2l7b5o1q7a9vc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEGni_IDyRGlSky90RvOAr1E7BqBvt63U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503625536751-4jl8c5ncii1jpu2g04u2l7b5o1q7a9vc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
